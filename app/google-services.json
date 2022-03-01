@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143108111013",
+    "firebase_url": "https://pomsa-cb6d5-default-rtdb.firebaseio.com",
+    "project_id": "pomsa-cb6d5",
+    "storage_bucket": "pomsa-cb6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143108111013:android:00b68eb3ad870f36f5eb4c",
+        "android_client_info": {
+          "package_name": "com.example.pomsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143108111013-tm38br1ltu3ev5noto1pt0mgjrdod6bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pomsa",
+            "certificate_hash": "398b47694aa76e00b810cf63eb63122ec660e65a"
+          }
+        },
+        {
+          "client_id": "143108111013-5a52nrv0mtjmkd8h7615d3u5rshnu00m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdNzycxhw-Q2b_Z2Up_SmmStN5zUN6cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143108111013-5a52nrv0mtjmkd8h7615d3u5rshnu00m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

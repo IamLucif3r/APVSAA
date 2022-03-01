@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:padding="10dp"
+        android:background="@drawable/button_bg"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="You Needed to Sign In for Content Management"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:gravity="center"
+            android:fontFamily="sans-serif-condensed"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_google_signin"
+            android:text="Continue with Google"
+            android:textSize="18sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/button_bg"
+            android:backgroundTint="@color/white"
+            android:minWidth="233dp"
+            android:padding="5dp"
+            android:gravity="center"
+            android:drawableStart="@drawable/ic_icons8_google"
+            android:textColor="@color/black"
+            android:includeFontPadding="false"
+            android:fontFamily="sans-serif-condensed"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

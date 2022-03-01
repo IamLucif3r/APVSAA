@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="Explore"
+        android:id="@+id/explore"
+        android:icon="@drawable/ic_baseline_explore_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="Publish"
+        android:id="@+id/publish"
+        android:icon="@drawable/ic_baseline_publish_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="Subscription"
+        android:id="@+id/subscription"
+        android:icon="@drawable/ic_baseline_subscriptions_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="Library"
+        android:id="@+id/library"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        app:showAsAction="ifRoom"/>
+</menu>
